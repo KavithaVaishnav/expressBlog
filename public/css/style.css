@@ -1,0 +1,71 @@
+
+.title{
+	color: #676279;
+	font-family: verdana;
+	font-style: italic;
+}
+h1{
+	color: #954a44;
+	font-family:verdana;
+	font-weight: bold;
+	text-align: center;
+	    background-color: #48440b;
+	    padding: 12px 0px;
+}
+.postContent{
+	text-align: justify;
+	margin-top:12px;
+	padding: 22px;
+	font:18px verdana;
+	color: #578979;
+}
+.date,.author{
+	font:26px verdana italic;
+	padding: 15px;
+	color: #892654;
+}
+.sign:hover,.login:hover{
+	font-size: 16px;
+	color: blue;
+	background-color: #b565de;
+	/*padding: 6px;*/
+	text-align: center;
+	 margin-top: 0em;
+}
+h3{
+	font:bold 25px verdana;
+	text-align: center;
+	color: #747529;
+}
+form{
+	margin: 0 auto;
+	text-align: center;
+}
+form div{
+	padding: 12px;
+}
+label{
+    padding-right: 12px;
+    font:13px verdana;
+    color: #375745
+}
+.btn{
+	color: #000;
+	background-color: #848282;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+}
+.editPost,.addPost{
+  color: #897469;
+}
+.login,.sign{
+	background-color: rgba(66, 23, 23, 0.25);
+	padding-top: 2px;
+	margin-left: 10px;
+	text-align: center;
+
+}
+.editPost{
+	margin-right: 12px;
+}

@@ -1,0 +1,31 @@
+[
+   {
+   	"title" : "MAHABHARAT",
+   	"img"   :"images/mahabharat.jpg",
+   	"postContent":"It all began with petty family jealousy. The Kaurava brothers tricked their Pandava cousins out of a kingdom and even Lord Krishna could not stop the horror and bloodshed that followed. Veda Vyasa composed an epic poem, the longest in the world, to describe the events that unfolded. In this epic tale of superhuman heroes and gory action, Veda Vyasa explores human ambitions, relationships and conflicts to find the true purpose of life.",
+   	"date":"12/09/2009",
+   	"author":"B.R. Bhagwat"
+   },
+   {
+   	"title" : "Neither a hawk nor a dove",
+   	"img"   :"images/hawk.png",
+   	"postContent":"The book is the first comprehensive account by a Pakistani Foreign Minister who contributed in moving the peace process with India forward. This was hailed as the most promising dialogue between Pakistan and India since Independence. It provides a detailed analysis of the Kashmir issue and the complex Pakistan-US-Afghanistan-India quadrangular relationship. Kasuri believes that, whenever two statesmen are at the helm in India and Pakistan, for improvement of relations, they would have to revert to the framework formulated during his tenure as Foreign Minister.",
+   	"date":"12/09/2009",
+   	"author":"Khurshid Mahmud Kasuri"
+   },
+   {
+   	"title" : "Farishta",
+   	"img"   :"images/farista.jpg",
+   	"postContent":"Hindi novel Farishta was in news in the fourth week of January 2015 after its author Kapil Isapuri accused the makers of film PK of plagiarism. The book was published in 2013.The novelist Isapuri approached the Delhi High Court and claimed that certain portions of the film like characters, expression of ideas and sequences were stolen from his novel Farishta and was used in the film.",
+   	"date":"12/09/2009",
+   	"author":"Kapil Isapuri"
+   },
+     {
+   	"title" : "Half Girlfriend",
+   	"img"   :"images/helf.jpg",
+   	"postContent":"Half Girlfriend is an Indian English coming of age, young adult romance novel by Indian author Chetan Bhagat. The novel, set in rural Bihar, New Delhi, Patna, and New York, is the story of a Bihari boy in quest of winning over the girl he loves. This is Bhagat's sixth novel which was released on 1 October 2014[2] by Rupa Publications. The novel has also been published in Hindi[3] and Gujarati[4] versions as well. A Bollywood film adaptation is planned.",
+   	"date":"12/09/2009",
+   	"author":"Chetan Bhagat"
+   }
+
+]

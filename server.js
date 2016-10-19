@@ -35,7 +35,9 @@ app.get('/reset', function(req, res) {
     res.sendFile(path.join(__dirname + '/partials/reset.html'));
 });
 
-
+app.get('/home',function(req,res){
+  res.sendFile(path.join(__dirname + '/partials/home.html'));
+})
 app.get('/password', function(req, res) {
     res.sendFile(path.join(__dirname + '/partials/password.html'));
 });
@@ -50,7 +52,7 @@ MongoClient.connect(url, function(err, db) {
     console.log("connected");
     var maxAge,httpOnly;
 // login post
-app.post('/', function(req, res) {
+app.post('/home', function(req, res) {
     user_name = req.body.username;
     password = req.body.password;
     console.log("name " + user_name+"  pass "+password);
@@ -63,7 +65,7 @@ app.post('/', function(req, res) {
        	  // creating cookie
       res.cookie('cookieName',user_name, { maxAge: 900000, httpOnly: true });
       console.log('cookie created successfully');
-           res.redirect('/');
+           res.redirect('/home');
         }
         else{
            console.log("username or password incorrect");

@@ -1,7 +1,6 @@
 $(document).ready(function(){
    
    $.get('data.json',function(data){
-        alert(1);
    	 data.forEach(function(value,key) {
       var mainDiv = $('<div class="blog"></div>');
         var titles =  $('<h2 class="title col-xs-12">'+value.title+'</h2>')
